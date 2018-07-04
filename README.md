@@ -5,7 +5,7 @@ Main repository for the final project for Class 04
 
 
 ## Work Agreement 
-[workingAgreement](./WorkingAgreement.md)
+[WorkingAgreement.md](./WorkingAgreement.md)
 
 _“Working agreements are guidelines that define how groups want to work together, and what they want in the working environment and from each other to feel safe and free to learn, explore and discover.”_
 
@@ -15,7 +15,7 @@ Feel free to review the points and contribute/pull request with new ones.
 
 Note that the project is split into two sub-projects. One for the [client](/client) and one for the [server](server). Further documentation in these folders.
 
-![Archiv für die Musik Afrikas - Universität Mainz](https://github.com/hackyourfuture-cph/class04-final-project/blob/master/ama1.png)
+![Archiv für die Musik Afrikas - Universität Mainz](./ama1.png)
 
 ## Work stories
 
@@ -35,16 +35,16 @@ Note that the project is split into two sub-projects. One for the [client](/clie
       > A Search View - use storybook and build the components for the view. Use the data on the 
       JSON file to demo;
       
-![mockupSearchView](https://github.com/dpfernandes/class04-final-project/blob/master/mockupSearchView.png)
+![mockupSearchView](./mockupSearchView.png)
     
       > Search Result View for the Artist with the info about the about Albums that are related to him/her;
 
-![mockupSearchResult](https://github.com/dpfernandes/class04-final-project/blob/master/mockupSearchResult.png)      
+![mockupSearchResult](./mockupSearchResult.png)      
 
       > Detail View for the Album with the info it's info, list of the titles with a Player for each
        one of them;
 
-![mockupDetailView](https://github.com/dpfernandes/class04-final-project/blob/master/mockupDetailView.png)     
+![mockupDetailView](./mockupDetailView.png)     
 
       > A Sort Search results based on Alphabetic order by Artist or by song Title and by Chronologic order. 
       This component should show up in every list result view.
@@ -52,11 +52,11 @@ Note that the project is split into two sub-projects. One for the [client](/clie
 
 ###### Build a Database Diagram based on the JSON file. Use the example below:
 
-![dbDiagram](https://github.com/dpfernandes/class04-final-project/blob/master/dbDiagram.png)
+![dbDiagram](./dbDiagram.png)
 
 
 ###### Please check the JSON file in: 
-https://github.com/hackyourfuture-cph/class04-final-project/blob/master/database-24fdbd.json
+[database-24fdbd.json](./database-24fdbd.json)
 
 
 ###### Implement Elastic Search using Isaac Project as an example and Ahmed’s endpoint:
@@ -65,11 +65,11 @@ https://github.com/katsisaac50/myreactivesearch
 
 ###### Make a Sitemap with the different Pages using the example below:
 
-![sitemapExample](https://github.com/dpfernandes/class04-final-project/blob/master/sitemapExample.png)
+![sitemapExample](./sitemapExample.png)
 
 ###### Make a diagram of the API endpoints using the example below:
 
-![apiEndPoints](https://github.com/dpfernandes/class04-final-project/blob/master/apiEndpoints.png)
+![apiEndPoints](./apiEndpoints.png)
 
 You can use AMA Instagram to get some images and add some real content to your project. 
 Check AMA Instagram here: https://www.instagram.com/reboot.africa/
