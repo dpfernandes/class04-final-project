@@ -4,8 +4,8 @@ Main repository for the final project for Class 04
 ![amaHeadlineLogo](./ama-headline-logo.png)
 
 
-## Work Agreement
-(./WorkingAgreement.md)
+## Work Agreement 
+![workingAgreement](./WorkingAgreement.md)
 
 _“Working agreements are guidelines that define how groups want to work together, and what they want in the working environment and from each other to feel safe and free to learn, explore and discover.”_
 
