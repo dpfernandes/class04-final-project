@@ -1,5 +1,5 @@
 # CLASS04 - FINAL PROJECT
-Main repository for the final project for Class 04![amaHeadlineLogo](https://github.com/UserName/class04-final-project/blob/master/ama-headline-logo.png)
+Main repository for the final project for Class 04![amaHeadlineLogo](./class04-final-project/blob/master/ama-headline-logo.png)
 
 ## Work Agreement
 (https://github.com/UserName/class04-final-project/blob/master/WorkingAgreement.md)
