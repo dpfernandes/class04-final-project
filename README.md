@@ -1,8 +1,8 @@
 # CLASS04 - FINAL PROJECT
-Main repository for the final project for Class 04![amaHeadlineLogo](../class04-final-project/blob/master/ama-headline-logo.png)
+Main repository for the final project for Class 04![amaHeadlineLogo](https://github.com/UserName/class04-final-project/blob/master/ama-headline-logo.png)
 
 ## Work Agreement
-(../class04-final-project/blob/master/WorkingAgreement.md)
+(https://github.com/UserName/class04-final-project/blob/master/WorkingAgreement.md)
 
 _“Working agreements are guidelines that define how groups want to work together, and what they want in the working environment and from each other to feel safe and free to learn, explore and discover.”_
 
